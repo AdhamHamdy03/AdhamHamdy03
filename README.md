@@ -1,5 +1,5 @@
 La traduction française est ci-dessous. 👇
-<h1>Hi, I'm Adham HAMDY <br/> <a href="[https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a](https://www.linkedin.com/in/adham-hamdy-65a30a287/)">A Electronics,Electrical Energy and Automation Engineering Student</a> <br/> Welcome on my profile 👋</h1>
+<h1>Hi, I'm Adham HAMDY <br/> <a href="[https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a](https://www.linkedin.com/in/adham-hamdy-65a30a287/)">An Electronics,Electrical Energy and Automation Engineer Student</a> <br/> Welcome on my profile 👋</h1>
 
 <h2>🙌 About me:</h2>
 Currently an apprentice at the Sorbonne University Paris ,just finished my Bachelor degree and applying in differents master degrees. Coming from a multidisciplinary background, I am extremely motivated to constantly develop my skills and grow professionally. I embrace change as a means of personal and professional growth. My journey has been one of constant adaptation, moving from Cairo, Egypt where I was born and raised in pursuit of better educational opportunities. Then from Toulouse to Paris, always seeking environments that challenge and support my aspirations.
