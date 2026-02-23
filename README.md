@@ -29,10 +29,10 @@ I’m a Master’s student at Sorbonne Université (Intelligent Systems), curren
 <br/>-> 📱 Check my online portfolio website: /
 
 <hr>
-<h1>Bonjour, je suis Chehab MOSAAD ! <br/> <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">Un étudiant en cloud et cybersécurité</a> <br/> Bienvenue sur mon profil 👋 </h1>
+<h1>Bonjour, je suis Adham HAMDY ! <br/> <a href="https://www.linkedin.com/in/adham-hamdy-65a30a287/">Un étudiant en IA </a> <br/> Bienvenue sur mon profil 👋 </h1>
 
 <h2>🙌 À propos de moi :</h2> 
-Actuellement étudiant à la grande école d’ingénieurs EFREI Paris en deuxème année de réseaux et sécurité (RS) en apprentissage. Issu d’un parcours multidisciplinaire, je suis extrêmement motivé pour développer constamment mes compétences et évoluer professionnellement. De plus, j’aime le travail d’équipe et je suis engagé et proactif pour sa réussite.
+Je suis étudiante en Master à Sorbonne Université (Ingénierie des Systèmes Intelligents), actuellement basée à Madrid dans le cadre d’un semestre Erasmus à l’UAM (Deep Learning, vision pour caméras multiples, Capital Markets & Asset Management). Issue d’un parcours pluridisciplinaire et très orientée projets, j’aime transformer des idées en code fiable en PyTorch/Python ainsi qu’en systèmes embarqués. Mon parcours m’a menée du Caire → Toulouse → Paris → Madrid, et j’aborde le changement comme un moteur de progression.
 
 <h2>👨‍💻 Développement logiciel et projets techniques :</h2>
 
@@ -57,5 +57,5 @@ Actuellement étudiant à la grande école d’ingénieurs EFREI Paris en deuxè
 
 <h2> 🤳 Contactez-moi :</h2> 
 -> 📧 Email : Chehab.mosaad@efrei.net 
-<br/>-> 🔗 LinkedIn : <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">Chehab MOSAAD</a>
+<br/>-> 🔗 LinkedIn : <a href="https://www.linkedin.com/in/adham-hamdy-65a30a287/">Adham HAMDY</a>
 <br/>-> 📱 Consultez mon site web portfolio en ligne : https://chehab-mosaad.github.io/
