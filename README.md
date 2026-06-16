@@ -7,8 +7,8 @@ I am currently a Master’s student at Sorbonne Université studying Intelligent
 
 ## 👨‍💻 Programming and Technical Projects
 *   **Python / PyTorch:**
-   *   [Deep Learning : Kaggle Urban Elements Re-ID Challenge 2026](https://github.com/AdhamHamdy03/Kaggle-Urban-Elements-Re-ID-Challenge-2026.git)   
-   *   [Image Classification Models Comparison (SVM, k-NN, ANN, CNN)](https://github.com/AdhamHamdy03/Image-Classification-Fashion-MNIST.git)
+     *   [Deep Learning : Kaggle Urban Elements Re-ID Challenge 2026](https://github.com/AdhamHamdy03/Kaggle-Urban-Elements-Re-ID-Challenge-2026.git)   
+     *   [Image Classification Models Comparison (SVM, k-NN, ANN, CNN)](https://github.com/AdhamHamdy03/Image-Classification-Fashion-MNIST.git)
       
 *   **Python:** [2D Game Development using OOP and Pygame ](https://github.com/AdhamHamdy03/Python-2D-Game.git)
 *   **ML Practical Work:** [Machine Learning Practical Work](https://github.com/AdhamHamdy03/Machine-Learning-Practical-Work.git)
