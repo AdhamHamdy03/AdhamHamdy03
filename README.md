@@ -7,7 +7,7 @@ I am currently a Master’s student at Sorbonne Université studying Intelligent
 
 ## 👨‍💻 Programming and Technical Projects
 *   **Python / PyTorch:** Image Classification Models Comparison (SVM, k-NN, ANN, CNN)
-*   **Python:** 2D Game Development using OOP and Pygame
+*   **Python:** 2D Game Development using OOP and Pygame (https://github.com/AdhamHamdy03/Python-2D-Game.git)
 *   **C / Keil:** Autonomous Delivery Robot with DTMF, IR, and Ultrasound sensors
 *   **VHDL / Vivado:** Game Console Development on FPGA
 *   **PSpice & Hardware:** Heart Rate Measurement and Counting System
