@@ -29,7 +29,7 @@ Je suis actuellement étudiant en Master à Sorbonne Université en Ingénierie 
 
 ## 👨‍💻 Développement logiciel et projets techniques
 *   **Python / PyTorch :** Comparaison de modèles de classification d'images (SVM, k-NN, ANN, CNN)
-*   **Python :** Développement de jeu 2D avec OOP et Pygame
+*   **Python :** Développement de jeu 2D avec OOP et Pygame (https://github.com/AdhamHamdy03/Python-2D-Game.git)
 *   **C / Keil :** Robot de livraison autonome avec capteurs DTMF, IR et ultrasons
 *   **VHDL / Vivado :** Développement d'une console de jeu sur FPGA
 *   **PSpice & Matériel :** Système de mesure et de comptage du rythme cardiaque
