@@ -34,8 +34,8 @@ Je suis actuellement étudiant en Master à Sorbonne Université en Ingénierie 
 
 ## 👨‍💻 Développement logiciel et projets techniques
 *   **Python / PyTorch :**
-   *   [Deep Learning : Kaggle Urban Elements Re-ID Challenge 2026](https://github.com/AdhamHamdy03/Kaggle-Urban-Elements-Re-ID-Challenge-2026.git)     
-   *   [Comparaison de modèles de classification d'images (SVM, k-NN, ANN, CNN)](https://github.com/AdhamHamdy03/Image-Classification-Fashion-MNIST.git)
+       *   [Deep Learning : Kaggle Urban Elements Re-ID Challenge 2026](https://github.com/AdhamHamdy03/Kaggle-Urban-Elements-Re-ID-Challenge-2026.git)     
+       *   [Comparaison de modèles de classification d'images (SVM, k-NN, ANN, CNN)](https://github.com/AdhamHamdy03/Image-Classification-Fashion-MNIST.git)
 *   **Python :** [Développement de jeu 2D avec OOP et Pygame](https://github.com/AdhamHamdy03/Python-2D-Game.git)
 *   ** ML Travaux Pratique :** [Travaux Pratique en Machine Learning ](https://github.com/AdhamHamdy03/Machine-Learning-Practical-Work.git)
 *   **C / Keil :** [Robot de livraison autonome avec capteurs DTMF, IR et ultrasons](https://github.com/AdhamHamdy03/Final-Project-Bachelor-DTMF-Ultrasound-Autonomous-Robot-etc-..git)
