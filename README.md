@@ -8,7 +8,7 @@ I am currently a Master’s student at Sorbonne Université studying Intelligent
 ## 👨‍💻 Programming and Technical Projects
 *   **Python / PyTorch:** [Image Classification Models Comparison (SVM, k-NN, ANN, CNN)](https://github.com/AdhamHamdy03/Image-Classification-Fashion-MNIST.git)
 *   **Python:** [2D Game Development using OOP and Pygame ](https://github.com/AdhamHamdy03/Python-2D-Game.git)
-*   **ML Practical Work** [ Machine Learning Practical Work](#)
+*   **ML Practical Work** [ Machine Learning Practical Work](https://github.com/AdhamHamdy03/Machine-Learning-Practical-Work.git)
 *   **C / Keil:** [Autonomous Delivery Robot with DTMF, IR, and Ultrasound sensors ](https://github.com/AdhamHamdy03/Final-Project-Bachelor-DTMF-Ultrasound-Autonomous-Robot-etc-..git)
 *   **VHDL / Vivado:** Game Console Development on FPGA
 *   **PSpice & Hardware:** Heart Rate Measurement and Counting System
@@ -32,7 +32,7 @@ Je suis actuellement étudiant en Master à Sorbonne Université en Ingénierie 
 ## 👨‍💻 Développement logiciel et projets techniques
 *   **Python / PyTorch :** [Comparaison de modèles de classification d'images (SVM, k-NN, ANN, CNN)](https://github.com/AdhamHamdy03/Image-Classification-Fashion-MNIST.git)
 *   **Python :** [Développement de jeu 2D avec OOP et Pygame](https://github.com/AdhamHamdy03/Python-2D-Game.git)
-*   ** ML Travaux Pratique :** [Travaux Pratique en Machine Learning ](#)
+*   ** ML Travaux Pratique :** [Travaux Pratique en Machine Learning ](https://github.com/AdhamHamdy03/Machine-Learning-Practical-Work.git)
 *   **C / Keil :** [Robot de livraison autonome avec capteurs DTMF, IR et ultrasons](https://github.com/AdhamHamdy03/Final-Project-Bachelor-DTMF-Ultrasound-Autonomous-Robot-etc-..git)
 *   **VHDL / Vivado :** Développement d'une console de jeu sur FPGA
 *   **PSpice & Matériel :** Système de mesure et de comptage du rythme cardiaque
