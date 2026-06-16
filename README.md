@@ -15,7 +15,7 @@ I am currently a Master’s student at Sorbonne Université studying Intelligent
 
 ## 🤳 Connect with me
 *   📧 Email: adham.samirhamdy@gmail.com
-*   🔗 LinkedIn: [Adham HAMDY](#)
+*   🔗 LinkedIn: [https://www.linkedin.com/in/adham-hamdy-65a30a287/](#)
 *   💻 GitHub: [AdhamHamdy03](#)
 
 ---
@@ -37,5 +37,5 @@ Je suis actuellement étudiant en Master à Sorbonne Université en Ingénierie 
 
 ## 🤳 Contactez-moi
 *   📧 Email : adham.samirhamdy@gmail.com
-*   🔗 LinkedIn : [Adham HAMDY](#)
+*   🔗 LinkedIn : [https://www.linkedin.com/in/adham-hamdy-65a30a287/](#)
 *   💻 GitHub : [AdhamHamdy03](#)
