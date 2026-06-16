@@ -7,7 +7,8 @@ I am currently a Master’s student at Sorbonne Université studying Intelligent
 
 ## 👨‍💻 Programming and Technical Projects
 *   **Python / PyTorch:**
-     *   [Deep Learning : Kaggle Urban Elements Re-ID Challenge 2026](https://github.com/AdhamHamdy03/Kaggle-Urban-Elements-Re-ID-Challenge-2026.git)   
+     *   [Deep Learning : Kaggle Urban Elements Re-ID Challenge 2026](https://github.com/AdhamHamdy03/Kaggle-Urban-Elements-Re-ID-Challenge-2026.git)
+     *   [DL1 PR1](https://github.com/AdhamHamdy03/DL1-PR1.git)  
      *   [Image Classification Models Comparison (SVM, k-NN, ANN, CNN)](https://github.com/AdhamHamdy03/Image-Classification-Fashion-MNIST.git)
       
 *   **Python:** [2D Game Development using OOP and Pygame ](https://github.com/AdhamHamdy03/Python-2D-Game.git)
@@ -34,7 +35,8 @@ Je suis actuellement étudiant en Master à Sorbonne Université en Ingénierie 
 
 ## 👨‍💻 Développement logiciel et projets techniques
 *   **Python / PyTorch :**
-       *   [Deep Learning : Kaggle Urban Elements Re-ID Challenge 2026](https://github.com/AdhamHamdy03/Kaggle-Urban-Elements-Re-ID-Challenge-2026.git)     
+       *   [Deep Learning : Kaggle Urban Elements Re-ID Challenge 2026](https://github.com/AdhamHamdy03/Kaggle-Urban-Elements-Re-ID-Challenge-2026.git)
+       *   [DL1 PR1](https://github.com/AdhamHamdy03/DL1-PR1.git)     
        *   [Comparaison de modèles de classification d'images (SVM, k-NN, ANN, CNN)](https://github.com/AdhamHamdy03/Image-Classification-Fashion-MNIST.git)
 *   **Python :** [Développement de jeu 2D avec OOP et Pygame](https://github.com/AdhamHamdy03/Python-2D-Game.git)
 *   ** ML Travaux Pratique :** [Travaux Pratique en Machine Learning ](https://github.com/AdhamHamdy03/Machine-Learning-Practical-Work.git)
