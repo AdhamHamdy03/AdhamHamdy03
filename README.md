@@ -20,7 +20,7 @@ I am currently a Master’s student at Sorbonne Université studying Intelligent
 *   **MATLAB:** 
     *   [Vision For Multiple Moving Cameras](https://github.com/AdhamHamdy03/Vision-For-Multiple-Moving-Cameras-.git)
     *   [Robotic Arm Control for trajectory following](#)
-*   **Capital Markets and Asset Management:** [Practice Using Python](https://github.com/AdhamHamdy03/Capital-Markets-and-Asset-Management.git)
+*   **Capital Markets and Asset Management:** [Practical work Using Python](https://github.com/AdhamHamdy03/Capital-Markets-and-Asset-Management.git)
 *   **Personal Projects:**
       * [Dogs App](https://github.com/AdhamHamdy03/Dog-app-.git)
       * [Adeef Students Map for choosing Universities and cities](https://github.com/AdhamHamdy03/Adeef-Map.git)   
