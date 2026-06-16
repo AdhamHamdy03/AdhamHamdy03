@@ -12,7 +12,7 @@ I am currently a Master’s student at Sorbonne Université studying Intelligent
 *   **VHDL / Vivado:** Game Console Development on FPGA
 *   **PSpice & Hardware:** Heart Rate Measurement and Counting System
 *   **MATLAB:** Vision For Multiple Moving Cameras (https://github.com/AdhamHamdy03/Vision-For-Multiple-Moving-Cameras-.git)
-  Robotic Arm Control for trajectory following()
+*    Robotic Arm Control for trajectory following()
 
 ## 🤳 Connect with me
 *   📧 Email: adham.samirhamdy@gmail.com
