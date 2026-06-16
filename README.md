@@ -30,8 +30,8 @@ Je suis actuellement étudiant en Master à Sorbonne Université en Ingénierie 
 
 ## 👨‍💻 Développement logiciel et projets techniques
 *   **Python / PyTorch :** [Comparaison de modèles de classification d'images (SVM, k-NN, ANN, CNN)](https://github.com/AdhamHamdy03/Image-Classification-Fashion-MNIST.git)
-*   **Python :** [Développement de jeu 2D avec OOP et Pygame] (https://github.com/AdhamHamdy03/Python-2D-Game.git)
-*   **C / Keil :** [Robot de livraison autonome avec capteurs DTMF, IR et ultrasons] (https://github.com/AdhamHamdy03/Final-Project-Bachelor-DTMF-Ultrasound-Autonomous-Robot-etc-..git)
+*   **Python :** [Développement de jeu 2D avec OOP et Pygame](https://github.com/AdhamHamdy03/Python-2D-Game.git)
+*   **C / Keil :** [Robot de livraison autonome avec capteurs DTMF, IR et ultrasons](https://github.com/AdhamHamdy03/Final-Project-Bachelor-DTMF-Ultrasound-Autonomous-Robot-etc-..git)
 *   **VHDL / Vivado :** Développement d'une console de jeu sur FPGA
 *   **PSpice & Matériel :** Système de mesure et de comptage du rythme cardiaque
 *   **MATLAB:** 
