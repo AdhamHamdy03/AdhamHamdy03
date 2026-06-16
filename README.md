@@ -21,6 +21,9 @@ I am currently a Master’s student at Sorbonne Université studying Intelligent
     *   [Vision For Multiple Moving Cameras](https://github.com/AdhamHamdy03/Vision-For-Multiple-Moving-Cameras-.git)
     *   [Robotic Arm Control for trajectory following](#)
 *   **Capital Markets and Asset Management:** [Practice Using Python](https://github.com/AdhamHamdy03/Capital-Markets-and-Asset-Management.git)
+*   **Personal Projects:**
+        *[Dogs App](https://github.com/AdhamHamdy03/Dog-app-.git)
+        *[Adeef Students Map for choosing Universities and cities](https://github.com/AdhamHamdy03/Adeef-Map.git)   
 
 ## 🤳 Connect with me
 *   📧 Email: adham.samirhamdy@gmail.com
@@ -51,6 +54,10 @@ Je suis actuellement étudiant en Master à Sorbonne Université en Ingénierie 
     *   [Vision For Multiple Moving Cameras](https://github.com/AdhamHamdy03/Vision-For-Multiple-Moving-Cameras-.git)
     *   [Robotic Arm Control for trajectory following](#)
 *   **Capital Markets and Asset Management:** [Travaux pratique en utilisant Python](https://github.com/AdhamHamdy03/Capital-Markets-and-Asset-Management.git)
+*   **Projets personnels:**
+        *[Dogs App](https://github.com/AdhamHamdy03/Dog-app-.git)
+        *[Adeef Students Map pour choisir les universités et les villes française](https://github.com/AdhamHamdy03/Adeef-Map.git)   
+
 ## 🤳 Contactez-moi
 *   📧 Email : adham.samirhamdy@gmail.com
 *   🔗 LinkedIn : [Adham HAMDY](https://www.linkedin.com/in/adham-hamdy-65a30a287/)
