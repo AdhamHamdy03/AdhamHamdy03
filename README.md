@@ -34,8 +34,9 @@ Je suis actuellement étudiant en Master à Sorbonne Université en Ingénierie 
 *   **C / Keil :** Robot de livraison autonome avec capteurs DTMF, IR et ultrasons
 *   **VHDL / Vivado :** Développement d'une console de jeu sur FPGA
 *   **PSpice & Matériel :** Système de mesure et de comptage du rythme cardiaque
-*   **MATLAB :** Contrôle de bras robotique pour le suivi de trajectoire
-
+*   **MATLAB:** 
+    *   [Vision For Multiple Moving Cameras](https://github.com/AdhamHamdy03/Vision-For-Multiple-Moving-Cameras-.git)
+    *   [Robotic Arm Control for trajectory following](#)
 ## 🤳 Contactez-moi
 *   📧 Email : adham.samirhamdy@gmail.com
 *   🔗 LinkedIn : [Adham HAMDY](https://www.linkedin.com/in/adham-hamdy-65a30a287/)
